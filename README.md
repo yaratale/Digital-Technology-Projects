@@ -1,4 +1,4 @@
-# 📊 Data Architecture & Relational Database Case Study
+# Data Architecture & Relational Database Case Study
 
 ## Business Scenario Overview (CCEA Specification)
 This repository contains the architecture, relational schema, and deployment documentation for a comprehensive **Enterprise Database Solution** designed for a local business entity. 
